@@ -76,3 +76,43 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrcrexiz&" alt="vrcrexiz" /></p>
 
 </div>
+
+
+<!-- One Door - Ticketing System -> Entry point for all DAR service requests
+
+TOOLS:
+Posit Workbench - Online IDE for R and Python Development
+
+Posit Connect - Deployment platform for published R and Python content
+
+GitHub (Pfizer R&D) - Source Control and repository management
+
+Figma
+Prototyping nad UX design
+
+Power BI
+Dashboard and Report Creation
+
+Spotfire
+Enterprise Visualization and GCS reports
+
+Collibra
+Data Catalogue and Data Intelligence Platform
+
+DSS
+Creating Workflows
+
+CSIT DAR Tool - Demand vs. Capacity
+R shiny Application 
+Hosted on Posit COnnect - Interactive resource planning dashboard for FTE% allocation across assigned project
+
+Spotfire Dashboard - Enterprise Visualizer layer - Evaluates request complexity and surfaces workload trends 
+
+Resource Forecasting - MAIN PROJECT
+GSH FTE FORECASTING - Exploration and Modeling Phase in Dataiku (DSS); focusde on EDA and predictive modeling.
+
+Goal: How big is the demand in the process
+They want to forecast if it can be allocated to the person or colleague.
+
+Datasets are the latest process and models have been integrated. <- Powerautomate used.-->
+
