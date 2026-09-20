@@ -1,80 +1,51 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=4000&color=FFFFFF&center=true&width=800&lines=%7Blorenz%7D%2C+eat%2C+code%2C+debug%2C+repeat;%7Blorenz%7D%2C+think%2C+code%2C+break%2C+fix;%7Blorenz%7D%2C+compile%2C+run%2C+fail%2C+learn;%7Blorenz%7D%2C+code%2C+test%2C+refine%2C+loop;%7Blorenz%7D%2C+build%2C+break%2C+rebuild%2C+repeat;%7Blorenz%7D%2C+sleep%2C+code%2C+survive%2C+repeat;%7Blorenz%7D%2C+dream%2C+code%2C+deploy%2C+repeat;%7Blorenz%7D%2C+logic%2C+code%2C+persist%2C+repeat" alt="Typing SVG" />
-</div>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ --> 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%2C%20I'm%20Lorenz%20%F0%9F%91%8B&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%7B%20eat%2C%20code%2C%20debug%2C%20repeat%20%7D&descSize=22&descAlignY=58" width="100%" alt="header" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=BS+Computer+Science+%40+De+La+Salle+University+%E2%80%93+Dasmari%C3%B1as;Specializing+in+Intelligent+Systems+%F0%9F%A7%A0;Full-Stack+Developer+%7C+Machine+Learning+Enthusiast;Building+smart%2C+fast%2C+and+beautiful+web+apps+%E2%9A%A1" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=VrCreXiZ&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" /> <a href="https://github.com/VrCreXiZ?tab=followers"> <img src="https://img.shields.io/github/followers/VrCreXiZ?style=for-the-badge&logo=github&color=7c4dff&labelColor=0d1117" alt="followers" /> </a>
 
-<h1 align="center">Hi 👋, I'm Lorenz!</h1>
-<h3 align="center">BS Computer Science with Specialization in Intelligent Systems</h3>
-<h3 align="center">De La Salle University – Dasmariñas</h3>
+<br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrcrexiz&label=Profile%20views&color=0e75b6&style=flat" alt="vrcrexiz" /> </p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/VrCreXiZ"> <img src="https://img.shields.io/badge/GitHub-VrCreXiZ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br/> <!-- ═══════════════════════════ ABOUT ═══════════════════════════ --> <h2 align="center">⚡ About Me</h2>
+python
+class Lorenz:
+    def __init__(self):
+        self.role           = "BS Computer Science Student"
+        self.university     = "De La Salle University – Dasmariñas"
+        self.specialization = "Intelligent Systems"
+        self.focus          = ["Machine Learning", "Full-Stack Development", "Progressive Web Apps"]
+        self.stack          = ["Python", "JavaScript", "Java", "React", "Vue", "Flask", "Node.js"]
+        self.motto          = "eat, code, debug, repeat"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/liuleovonchiong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liuleovonchiong/" height="30" width="40" /></a>
-</p>
+    def what_i_do(self):
+        return "Turn data and ideas into intelligent, polished software 🚀"
+<br/> <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ --> <h2 align="center">🛠️ Tech Stack</h2> <div align="center">
 
-<div align="center">
-  <h3>Languages and Tools</h3>
-  <br>
-  <table align="center">
-    <tr>
-      <td align="center" width="80"><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a></td>
-      <td align="center" width="80"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-      <td align="center" width="80"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-      <td align="center" width="80"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
-      <td align="center" width="80"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-      <td align="center" width="80"><a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
-    </tr>
+Languages
+
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,html,css&theme=dark" alt="languages" />
+
+Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,flask,django,nestjs,tailwind,bootstrap,graphql&theme=dark" alt="frameworks" />
+
+Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,gcp,docker,kubernetes&theme=dark" alt="databases and cloud" />
+
+AI, ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy,matplotlib,matlab,r&theme=dark" alt="ai and data" /> <br/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/TIBCO%20Spotfire-E4002B?style=for-the-badge&logoColor=white" alt="Spotfire" /> <img src="https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Shiny" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" alt="tools" /> </div> <br/> <!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ Uncomment this block and replace REPO_NAME_1 / REPO_NAME_2 with your repos. <h2 align="center">🚀 Featured Projects</h2> <div align="center"> <a href="https://github.com/VrCreXiZ/REPO_NAME_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VrCreXiZ&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="project 1" /> </a> <a href="https://github.com/VrCreXiZ/REPO_NAME_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VrCreXiZ&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="project 2" /> </a> </div> <br/> ═══════════════════════════════════════════════════════════════════════ --> <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ --> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api/?username=VrCreXiZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrCreXiZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top languages" /> <br/> <img src="https://streak-stats.demolab.com?user=VrCreXiZ&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VrCreXiZ&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF" width="95%" alt="Contribution graph" /> </div> <br/> <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ --> <h2 align="center">🏆 Trophies</h2> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=VrCreXiZ&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" /> </div> <br/> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Open+to+collaborations+and+opportunities+%F0%9F%A4%9D;Let's+build+something+great+together." alt="footer typing" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" /> </div>
+
     <tr>
       <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
       <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
       <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrcrexiz&show_icons=true&locale=en&layout=compact" alt="vrcrexiz" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrcrexiz&show_icons=true&locale=en" alt="vrcrexiz" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrcrexiz&" alt="vrcrexiz" /></p>
-
-</div>
-
 
 <!-- One Door - Ticketing System -> Entry point for all DAR service requests
 
