@@ -23,18 +23,21 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 <h2 align="center">⚡ About Me</h2>
 
-python
-class Lorenz:
-    def __init__(self):
-        self.role           = "BS Computer Science Student"
-        self.university     = "De La Salle University – Dasmariñas"
-        self.specialization = "Intelligent Systems"
-        self.focus          = ["Machine Learning", "Full-Stack Development", "Progressive Web Apps"]
-        self.stack          = ["Python", "JavaScript", "Java", "React", "Vue", "Flask", "Node.js"]
-        self.motto          = "eat, code, debug, repeat"
+<div align="center">
 
-    def what_i_do(self):
-        return "Turn data and ideas into intelligent, polished software 🚀"
+<table>
+  <tr><td>🎓 <b>Education</b></td><td>BS Computer Science — De La Salle University – Dasmariñas</td></tr>
+  <tr><td>🧠 <b>Specialization</b></td><td>Intelligent Systems</td></tr>
+  <tr><td>🎯 <b>Focus</b></td><td>Machine Learning · Full-Stack Development · Progressive Web Apps</td></tr>
+  <tr><td>💻 <b>Go-to Stack</b></td><td>Python · JavaScript · Java · React · Vue · Flask · Node.js</td></tr>
+  <tr><td>⚡ <b>Motto</b></td><td><code>eat, code, debug, repeat</code></td></tr>
+</table>
+
+<br/>
+
+<i>Turning data and ideas into intelligent, polished software 🚀</i>
+
+</div>
 
 <br/>
 
@@ -102,10 +105,6 @@ class Lorenz:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-    <tr>
-      <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
-      <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
 
 <!-- One Door - Ticketing System -> Entry point for all DAR service requests
 
