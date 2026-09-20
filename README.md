@@ -26,7 +26,7 @@
 <div align="center">
 
 <table>
-  <tr><td>🎓 <b>Education</b></td><td>Computer Science — De La Salle University – Dasmariñas</td></tr>
+  <tr><td>🎓 <b>Education</b></td><td>BS Computer Science — De La Salle University – Dasmariñas</td></tr>
   <tr><td>🧠 <b>Specialization</b></td><td>Intelligent Systems</td></tr>
   <tr><td>🎯 <b>Focus</b></td><td>Machine Learning · Full-Stack Development · Progressive Web Apps</td></tr>
   <tr><td>💻 <b>Go-to Stack</b></td><td>Python · JavaScript · Java · React · Vue · Flask · Node.js</td></tr>
